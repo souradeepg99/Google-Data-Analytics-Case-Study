@@ -1,6 +1,6 @@
 # Google-Data-Analytics-Case-Study
 
-** This is the Capstone Project of the Google Data Analytics Capstone Project by Coursera. **
+**This is the Capstone Project of the Google Data Analytics Capstone Project by Coursera.**
 
 ### Scenario
 
